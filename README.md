@@ -1,4 +1,4 @@
-# Estuando um container simples implementado com a linguagem GO
+# Estudando um container simples implementado com a linguagem GO
 
 Esse repositório foi criado para conter o código e a documentação da minha experiência testando o código provido pela usuário [https://github.com/lizrice](https://github.com/lizrice).
 
