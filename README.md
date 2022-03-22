@@ -2,7 +2,7 @@
 
 Esse repositório foi criado para conter o código e a documentação da minha experiência testando o código provido pela usuário [https://github.com/lizrice](https://github.com/lizrice).
 
-Segue o linke do código fonte dela [https://github.com/lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch), link da apresentação feita na GOTO 2018 [https://www.youtube.com/watch?v=8fi7uSYlOdc](https://www.youtube.com/watch?v=8fi7uSYlOdc).
+Segue os links do código fonte dela [https://github.com/lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch) e da apresentação feita na GOTO 2018 [https://www.youtube.com/watch?v=8fi7uSYlOdc](https://www.youtube.com/watch?v=8fi7uSYlOdc).
 
 ## Configurando o ambiente
 
